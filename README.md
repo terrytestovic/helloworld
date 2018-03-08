@@ -1,3 +1,8 @@
-# helloworld
+# helloworld - branch
 
--Test readme
+*Test readme
+
+*Upravena struktura
+
+
+8. s bugem byl odstraněn
